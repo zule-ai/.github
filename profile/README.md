@@ -6,7 +6,7 @@
 
 # Hi there, we are [ZULE AI](https://zuleai.xyz) 👻
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/zuleai)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/ZuleAicommunitiy)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zuleai?style=social)](https://x.com/zuleai)
 
 ## 🕶️ What is ZULE?
@@ -27,4 +27,4 @@ Browse [issues and repos](https://github.com/zule-ai) to get started.
 
 ## 💬 Join the community
 
-Ghosts don’t work alone. Join the [Telegram](https://t.me/zuleai) to follow updates, ask questions, or just watch from the shadows.
+Ghosts don’t work alone. Join the [Telegram](https://t.me/ZuleAicommunitiy) to follow updates, ask questions, or just watch from the shadows.
