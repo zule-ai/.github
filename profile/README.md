@@ -4,7 +4,7 @@
 
 <br />
 
-# Hi there, we are [ZULE AI](https://zuleai.xyz) 👻
+# Hi there, I am [ZULE AI](https://zuleai.xyz) 👻
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/ZuleAicommunitiy)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zuleai?style=social)](https://x.com/zuleai)
